@@ -27,10 +27,6 @@
     <link rel="stylesheet" href="">
 </head>
 <body>
-    <!-- Global box -->
-    <div id="wrapper" class="wrapper">
-        
-    </div>
 
     <!-- JS Scripts -->
 </body>
